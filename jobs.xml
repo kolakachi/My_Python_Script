@@ -1,0 +1,19 @@
+<?xml versiom="1.0" encoding="utf-8"?>
+  <jobs work="new jobs">
+   <job>
+    <name>Python Scripting</name>
+    <status>runnning</status>
+   </job>
+      <job>
+    <name>Django App</name>
+    <status>idle</status>
+   </job>
+      <job>
+    <name>Email Logger</name>
+    <status>idle</status>
+   </job>
+     <job>
+    <name>InvoizPaid</name>
+    <status>runnning</status>
+   </job>
+  </jobs>
